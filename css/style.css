@@ -196,7 +196,7 @@ p.hide-text{
 	text-align:center;
 	background: #cbf4cb;
 }
-.features-block h3{
+.features-block h3 {
 	font-family: 'BenchNine';
 	font-weight: 700;
 	font-size: 40px;
@@ -205,8 +205,9 @@ p.hide-text{
 	color: #020202;
 }
 h2.featurette-heading {
-    font-family: bangers;
+    font-family: BenchNine;
     color: #000000;
+		padding-bottom: 10px;
 }
 .txt-sty1 {
     text-align: left;
