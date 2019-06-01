@@ -265,12 +265,13 @@ div#owl-demo1 {
     margin: 0px 3px 5px !important;
     width: 32.33333%;
 }
-.testimonial{
+.spotify{
     padding: 3em 0;
     text-align: center;
     background: #FFE103;
+		max-height: 400px;
 }
-.testimonial h3{
+.spotify h3{
     font-family: 'BenchNine';
     font-weight: 700;
     font-size: 40px;
@@ -740,7 +741,7 @@ ul.social-share li a.ins:hover{
         width: 32.33333%;
         float: left;
     }
-    .our-partners h3,.musi-top h3,.features-block h3,.music h3,.videos h3,.testimonial h3{
+    .our-partners h3,.musi-top h3,.features-block h3,.music h3,.videos h3,.spotify h3{
         font-size: 30px;
     }
     .musi-top-grid h2 {
@@ -891,10 +892,10 @@ ul.social-share li a.ins:hover{
         line-height: 1;
         min-height: 190px;
     }
-    .our-partners,.top-music,.features-block ,.music,.videos,.testimonial{
+    .our-partners,.top-music,.features-block ,.music,.videos,.spotify{
         padding: 2em 0;
     }
-    .our-partners h3, .musi-top h3, .features-block h3, .music h3, .videos h3, .testimonial h3 {
+    .our-partners h3, .musi-top h3, .features-block h3, .music h3, .videos h3, .spotify h3 {
         font-size: 30px;
         margin-bottom: 18px;
     }
@@ -981,4 +982,26 @@ a.re {
 }
 a.re:hover{
 	background:#FF0095;
+}
+
+
+/* Spotify */
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    height: auto;
+		max-height: 300px;
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+		max-height: 200px;
 }
