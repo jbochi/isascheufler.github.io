@@ -223,19 +223,6 @@ p.lead{
 img.img-wid{
     width:100%;
 }
-.music {
-    padding: 3em 0;
-    text-align: center;
-    background-color: #020202;
-}
-.music h3{
-	font-family: 'BenchNine';
-	font-weight: 700;
-	font-size: 40px;
-	text-transform: uppercase;
-	margin-bottom: 30px;
-	Color:#fff;
-}
 p.track-title{
 	margin: 15px 30px 15px 0px;
 	font-size: 20px;
@@ -717,7 +704,7 @@ ul.social-share li a.ins:hover{
         width: 32.33333%;
         float: left;
     }
-    .our-partners h3,.musi-top h3,.features-block h3,.music h3,.videos h3,.spotify h3{
+    .our-partners h3,.musi-top h3, .features-block h3,.videos h3,.spotify h3{
         font-size: 30px;
     }
     .musi-top-grid h2 {
@@ -868,10 +855,10 @@ ul.social-share li a.ins:hover{
         line-height: 1;
         min-height: 190px;
     }
-    .our-partners,.top-music,.features-block ,.music,.videos,.spotify{
+    .our-partners,.top-music,.features-block,.videos,.spotify{
         padding: 2em 0;
     }
-    .our-partners h3, .musi-top h3, .features-block h3, .music h3, .videos h3, .spotify h3 {
+    .our-partners h3, .musi-top h3, .features-block h3, .videos h3, .spotify h3 {
         font-size: 30px;
         margin-bottom: 18px;
     }
