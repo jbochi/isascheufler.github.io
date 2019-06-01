@@ -194,7 +194,7 @@ p.hide-text{
 .features-block{
 	padding:3em 0;
 	text-align:center;
-	background:#FFE103;
+	background: #cbf4cb;
 }
 .features-block h3{
 	font-family: 'BenchNine';
@@ -206,7 +206,7 @@ p.hide-text{
 }
 h2.featurette-heading {
     font-family: bangers;
-    color: #f9def3;
+    color: #000000;
 }
 .txt-sty1 {
     text-align: left;
@@ -855,7 +855,7 @@ ul.social-share li a.ins:hover{
         line-height: 1;
         min-height: 190px;
     }
-    .our-partners,.top-music,.features-block,.videos,.spotify{
+    .our-partners,.top-music,.features-block,.videos,.spotify {
         padding: 2em 0;
     }
     .our-partners h3, .musi-top h3, .features-block h3, .videos h3, .spotify h3 {
