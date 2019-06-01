@@ -220,6 +220,8 @@ h2.featurette-heading {
 }
 p.lead{
     font-family: 'Cagliostro', sans-serif;
+		text-align: justify;
+  	text-justify: inter-word;
 }
 img.img-wid{
     width:100%;
