@@ -48,10 +48,10 @@ body{
 .logo a.navbar-brand {
     font-size: 45px !important;
     font-family: 'Bangers';
-    color: #e5ae95;
+    color: #f9def3;
 }
 .logo a.navbar-brand:hover{
-    color: #e5ae95;
+    color: #f9def3;
     text-decoration: none;
 }
 .navbar-default .navbar-nav>li>a {
@@ -65,7 +65,7 @@ body{
     padding: 15px 0px 15px 85px;
 }
 .navbar-default .navbar-nav>li>a:hover{
-    color: #e5ae95;
+    color: #f9def3;
     transition: 0.5s all;
 }
 .navbar-default .navbar-nav>li>a:focus{
@@ -120,7 +120,7 @@ input.textbox {
     border: none;
     padding: 5px;
     font-size: 12px;
-    background-color: #e5ae95;
+    background-color: #f9def3;
     color: #fff;
 	border-radius: 2px 0px 0px 2px;
     position: relative;
@@ -138,7 +138,7 @@ input.sub{
     outline: none;
     border: none;
     background-size: 109px;
-    background-color: #e5ae95;
+    background-color: #f9def3;
     border-radius: 0px 2px 2px 0px;
 }
 img.wid-p{
@@ -172,7 +172,7 @@ img.wid-p{
 	font-size:40px;
 	text-transform:uppercase;
 	margin-bottom:30px;
-	color: #e5ae95;
+	color: #f9def3;
 	text-align:center;
 }
 p.hide-text{
@@ -181,7 +181,7 @@ p.hide-text{
 .musi-top-grid h2 {
 	margin: 15px 0;
 	font-size: 20px;
-	color: #e5ae95;
+	color: #f9def3;
 	font-family: bangers;
 }
 .musi-top-grid p {
@@ -206,7 +206,7 @@ p.hide-text{
 }
 h2.featurette-heading {
     font-family: bangers;
-    color: #e5ae95;
+    color: #f9def3;
 }
 .txt-sty1 {
     text-align: left;
@@ -239,7 +239,7 @@ img.img-wid{
 p.track-title{
 	margin: 15px 30px 15px 0px;
 	font-size: 20px;
-	color: #e5ae95;
+	color: #f9def3;
 	font-family: bangers;
 }
 div#Choco_overlay {
@@ -268,8 +268,7 @@ div#owl-demo1 {
 .spotify{
     padding: 3em 0;
     text-align: center;
-    background: #FFE103;
-		max-height: 400px;
+    background: #cbf4cb;
 }
 .spotify h3{
     font-family: 'BenchNine';
@@ -293,7 +292,7 @@ div#owl-demo1 {
     margin-top: 140px;
 }
 .hover-box {
-    background-color: #e5ae95;
+    background-color: #f9def3;
     padding: 44px 10px;
     width: 100%;
     position: absolute;
@@ -343,9 +342,9 @@ input.name,input.email{
     width: 49%;
     border: none;
     background: #020202;
-    border-bottom:1px solid #e5ae95;
-    border-right:1px solid #e5ae95;
-    border-left:1px solid #e5ae95;
+    border-bottom:1px solid #f9def3;
+    border-right:1px solid #f9def3;
+    border-left:1px solid #f9def3;
     outline: none;
     padding: 7px;
     color: #fff;
@@ -353,7 +352,7 @@ input.name,input.email{
     letter-spacing: 0.5px;
 }
 input.sub2 {
-    background-color: #e5ae95;
+    background-color: #f9def3;
     border: none;
     padding: 5px 20px;
     color: #fff;
@@ -373,7 +372,7 @@ input.sub2:hover{
 a.fot-logo{
     font-size: 20px !important;
     font-family: 'Bangers';
-    color: #e5ae95;
+    color: #f9def3;
     letter-spacing: 1px;
 }
 a.fot-logo:hover{
@@ -384,7 +383,7 @@ a.fot-logo:hover{
     font-size: 13px;
 }
 a.lay{
-    color: #e5ae95;
+    color: #f9def3;
 }
 a.lay:hover{
     text-decoration: none;
@@ -416,12 +415,12 @@ h4.media-heading {
 
 }
 ul.head-rt li a:hover {
-    color: #e5ae95;
+    color: #f9def3;
     text-decoration: none;
 }
 span.ply{
     margin-right: 15px;
-    color: #e5ae95;
+    color: #f9def3;
     font-size: 18px;
     vertical-align: text-top;
 }
@@ -444,7 +443,7 @@ h3.thum-heading{
 }
 li.album-name a,li.album-name a:hover{
     font-family: 'BenchNine' !important;
-    color:#e5ae95 !important;
+    color:#f9def3 !important;
     font-size: 23px !important;
     font-weight: 800 !important;
     margin:0px !important;
@@ -462,7 +461,7 @@ h4.media-heading {
     font-size: 20px;
     font-family: 'BenchNine';
     font-weight: 800;
-    color: #e5ae95;
+    color: #f9def3;
     text-transform: capitalize;
 }
 li.albm-sng-hdn{
@@ -522,14 +521,14 @@ textarea.txt-box2{
     resize:none;
     outline: none;
     border: none;
-    border:1px solid #e5ae95;
+    border:1px solid #f9def3;
     font-family: bangers;
 }
 input.email2,input.name2{
     width: 100%;
     outline:none;
     padding: 7px;
-    border:1px solid #e5ae95;
+    border:1px solid #f9def3;
     font-family: bangers;
 }
 p.comment-txt{
@@ -692,7 +691,7 @@ ul.social-share li a.ins:hover{
         width: 16px;
         height: 25px;
         background-size: 82px;
-        background-color: #e5ae95;
+        background-color: #f9def3;
     }
     .flot-stn2 {
         width: 25%;
@@ -950,7 +949,7 @@ ul.social-share li a.ins:hover{
 }
 a.re {
     font-size: 1em;
-    background-color: #e5ae95;
+    background-color: #f9def3;
     color: #fff;
     padding: 3px 10px;
     display: inline-block;
