@@ -48,7 +48,7 @@ body{
 .logo a.navbar-brand {
     font-size: 45px !important;
     font-family: 'BenchNine';
-    color: #f9def3;
+    color: #ab97a5;
 }
 .logo a.navbar-brand:hover{
     color: #f9def3;
@@ -194,7 +194,7 @@ p.hide-text{
 .features-block{
 	padding:3em 0;
 	text-align:center;
-	background: #cbf4cb;
+	background: #728676;
 }
 .features-block h3 {
 	font-family: 'BenchNine';
@@ -258,7 +258,7 @@ div#owl-demo1 {
 .spotify{
     padding: 3em 0;
     text-align: center;
-    background: #cbf4cb;
+    background: #728676;
 }
 .spotify h3{
     font-family: 'BenchNine';
