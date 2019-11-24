@@ -969,3 +969,10 @@ a.re:hover{
     width: 100%;
     height: 100%;
 }
+
+
+/* Lyrics */
+
+div.stanza {
+    padding-bottom: 10px;
+}
